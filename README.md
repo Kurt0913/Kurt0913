@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mood Calendar**
 
-- 🌱 I’m currently learning **APIs, Git/Github, JavaFX**
+- 🌱 I’m currently learning **Networking, PHP, Python**
 
 - 📫 How to reach me: **kurttendero@gmail.com**
 
