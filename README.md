@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt0913&label=Profile%20views&color=0e75b6&style=flat" alt="kurt0913" /> </p>
 
-- 🔭 I’m currently working on **Mood Calendar**
-
-- 🌱 I’m currently learning **Networking, PHP, Python**
-
 - 📫 How to reach me: **kurttendero@gmail.com**
 
 
