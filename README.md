@@ -1,38 +1,73 @@
-<h1 align="center">Hi 👋, I'm Kurt Tendero</h1>
-<h3 align="center">I'm a software engineering student who enjoys building useful and meaningful tech.</h3>
+# 👋 Hi, I'm Kurt Tendero
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kurt0913&label=Profile%20views&color=0e75b6&style=flat" alt="kurt0913" />
-</p>
+**Software Engineering Student | Full-Stack Developer | Tech Enthusiast**
 
-<p align="center">
-  <a href="mailto:kurttendero@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  </p>
+I'm passionate about building **meaningful, scalable software** that solves real problems. With a strong foundation in both backend and frontend development, I enjoy tackling complex challenges and continuously expanding my technical toolkit.
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+## 🚀 What I'm About
+
+- 💻 **Building Things**: I love turning ideas into functional applications with clean, maintainable code
+- 🎯 **Problem Solving**: I enjoy the challenge of designing efficient solutions to complex problems
+- 📚 **Continuous Learning**: Always exploring new technologies, frameworks, and best practices
+- 🔧 **Full-Stack Development**: Comfortable across the entire development stack, from databases to user interfaces
+- 🌱 **Code Quality**: I believe in writing code that's not just functional, but also readable and scalable
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** C++, Java, Python, SQL, JavaScript, HTML/CSS
+
+**Frameworks & Libraries:** Spring Boot, Spring Framework
+
+**Databases:** MySQL, Oracle Database, SQLite
+
+**Tools & Technologies:** Git/GitHub, REST APIs, Object-Oriented Design
+
+**Areas of Interest:** Software Architecture, Database Design, Web Development, Backend Systems
+
+---
+
+## 📂 Featured Projects
+
+<!-- Uncomment and update as you add projects -->
+<!-- - **[Project Name](link)** - Brief description of what it does and key technologies used -->
+
+I'm actively building projects that combine problem-solving with real-world applications. Check out my repositories to see my latest work!
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurt0913&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kurt0913&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurt0913&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing software design, or exploring new opportunities in tech.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurttendero@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurt0913)
+
+</div>
+
+---
 
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <br/>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <img src="https://komarev.com/ghpvc/?username=kurt0913&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurt0913&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="kurt0913" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurt0913&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="kurt0913" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurt0913&theme=tokyonight&hide_border=true" alt="kurt0913" />
-</p>
+**Feel free to explore my repositories and reach out if you'd like to discuss ideas or collaborate!**
