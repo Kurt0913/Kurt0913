@@ -1,17 +1,17 @@
 # Hi, I'm Kurt Tendero
 
-### Software Engineering Student | Full-Stack Developer
+### Software Engineering Student | Developer
 
-I’m a software engineering student with experience developing full-stack applications and backend systems using Java, Python, JavaScript, SQL, and Spring Boot.
+I’m a software engineering student with experience building full-stack applications using modern frontend, backend, database, and cloud technologies.
 
 I enjoy translating real-world problems into practical software solutions, with a focus on clean code, maintainable architecture, and user-centered design. I’m currently strengthening my skills through academic work, personal development, and collaborative programming.
 
 ## Technical Skills
 
-* **Languages:** Java, Python, C++, JavaScript, SQL, HTML, CSS
-* **Frameworks:** Spring Boot, Spring Framework
-* **Databases:** MySQL, Oracle Database, SQLite
-* **Development:** REST APIs, Object-Oriented Programming, Database Design
+* **Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript
+* **Backend:** Node.js, Python, Java, C++
+* **Databases and Services:** PostgreSQL, Supabase, Firebase
+* **DevOps and Cloud:** Docker, Kubernetes, AWS, GitHub Actions
 * **Tools:** Git, GitHub
 
 ## Currently Exploring
